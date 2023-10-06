@@ -1,5 +1,5 @@
 # Pneumonia-Detection-using-Convolutional-Neural-Network
-# Pneumonia-Detection-using-Convolutional-Neural-Network
+
 What is Pneumonia?
 Pneumonia is a common respiratory infection that affects the lungs. It is caused by bacteria, viruses, or fungi. Pneumonia can be mild or severe, and it can be fatal, especially in young children and the elderly.
 
